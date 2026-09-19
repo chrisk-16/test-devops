@@ -1,5 +1,7 @@
 add new feature
 add documentation
-added text on suite-doc-2 branch 
+added text on suite-doc-2 branch
 another change cause why not ?
 Conflicts ??? 
+another change cause why not ? 
+git modif aaabbbcccddd
