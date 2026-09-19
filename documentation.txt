@@ -1,1 +1,3 @@
 add new feature
+add documentation
+added text on suite-doc-2 branch 
